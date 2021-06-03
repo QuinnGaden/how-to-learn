@@ -1,0 +1,10 @@
+.techniques {
+  box-sizing: border-box;
+  /*border: 1px solid red;*/
+  width: 80%;
+  display: flex;
+  padding-top: 100px;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+}

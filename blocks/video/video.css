@@ -1,0 +1,10 @@
+.video {
+  box-sizing: border-box;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  /*border: 1px solid red;*/
+  padding-top: 100px;
+}

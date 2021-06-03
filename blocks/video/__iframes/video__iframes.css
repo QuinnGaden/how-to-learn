@@ -1,0 +1,7 @@
+.video__iframes {
+  display: flex;
+  position: relative;
+  top: 50px;
+  left: 0;
+  /*border: 1px solid yellow;*/
+}

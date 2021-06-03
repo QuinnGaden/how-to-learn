@@ -1,0 +1,9 @@
+.two-columns {
+  display: flex;
+  margin: auto;
+ /* border: 1px solid orangered;*/
+  width: 80%;
+  min-height: auto;
+  flex-direction: row;
+  justify-content: space-between;
+}

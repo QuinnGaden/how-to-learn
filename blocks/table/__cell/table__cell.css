@@ -1,0 +1,9 @@
+.table__cell {
+  margin-top: 60px;
+ /* border: 1px solid yellowgreen;*/
+  width: 250px;
+  list-style-type: none;
+  padding: 0;
+}
+
+
