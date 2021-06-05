@@ -7,7 +7,5 @@
   width: 80%;
   justify-content: space-between;
 }
-/*обнулили последнему элементу нижний внутренний отступ*/
-.two-columns__main-text p:last-child {
-margin-bottom: 0;
-}
+
+

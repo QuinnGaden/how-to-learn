@@ -4,4 +4,7 @@
   width: 920px;
   flex-wrap: wrap;
   flex-direction: row;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }

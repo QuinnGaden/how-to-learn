@@ -2,8 +2,4 @@
   color: white;
   display: flex;
   /* border: 1px solid blue;*/
-   width: 1100px;
-   justify-content:space-between;
-   flex-wrap: wrap;
-   flex-direction: row;
 }

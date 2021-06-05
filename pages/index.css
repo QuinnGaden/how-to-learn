@@ -2,13 +2,10 @@
 @import url(../vendor/normalize.css);
 /*rotation*/
 @import url(../blocks/rotation/rotation.css);
-@import url(../blocks/rotation/__square-pic/rotation__square-pic.css);
-@import url(../blocks/rotation/__triangle/rotation__triangle.css);
+@import url(../blocks/rotation/__figure/rotation__figure.css);
 /*content*/
 @import url(../blocks/content/content.css);
 @import url(../blocks/content/__section/content__section.css);
-@import url(../blocks/content/__techniques/content__techniques.css);
-@import url(../blocks/content/__resources/content__resources.css);
 /*digits*/
 @import url(../blocks/digits/digits.css);
 /*discription*/
@@ -25,6 +22,7 @@
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /*resources*/
 @import url(../blocks/resources/resources.css);
+@import url(../blocks/resources/__cell/resources__cell.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 /*section-title*/
@@ -46,7 +44,7 @@
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
 @import url(../blocks/cards/__title/cards__title.css);
-@import url(../blocks/cards/__disription/cards__discription.css);
+@import url(../blocks/cards/__description/cards__description.css);
 /*table*/
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/_theme/table_theme_dark.css);
@@ -72,7 +70,7 @@
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__nav/footer__nav.css);
 @import url(../blocks/footer/__column-item/footer__column-item.css);
-@import url(../blocks/footer/__column-list/footer__column-list.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
@@ -82,13 +80,14 @@
 @import url(../vendor/fonts/fonts.css);
 /*video*/
 @import url(../blocks/video/video.css);
+@import url(../blocks/video/__item/video__item.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 /*oakley*/
 @import url(../blocks/oakley/oakley.css);
 /*feynman*/
 @import url(../blocks/feynman/feynman.css);
-@import url(../blocks/feynman/_title/feynman__title.css);
+@import url(../blocks/feynman//__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 /*khan*/

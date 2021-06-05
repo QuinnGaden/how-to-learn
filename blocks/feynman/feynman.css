@@ -8,5 +8,5 @@
   /*border: 1px solid red;*/
   background: #F2F2F2 url(../../images/feinman.png) no-repeat bottom left;
   padding-top: 100px;
-  height: 890px;
+  min-height: 890px;
 }
